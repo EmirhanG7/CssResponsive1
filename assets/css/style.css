@@ -1107,6 +1107,7 @@ a{
 
     .testiContent {
         margin-bottom: 0;
+        gap: 32px;
     }
 
     .cta {
